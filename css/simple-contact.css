@@ -1,0 +1,21 @@
+
+.listing-contact-iconlist > li {
+    padding-left: 1.0em;
+    margin-bottom: 15px;
+}
+
+.listing-contact-listing-title {
+    font-weight: bold;
+}
+
+.listing-contact-listing-text {
+    position: relative;
+    bottom: 0.15em;
+}
+
+.listing-contact-gmap-container {
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+}
+

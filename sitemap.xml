@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://biornegildet.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biornegildet.github.io/historie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biornegildet.github.io/frivilliginfo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biornegildet.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biornegildet.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biornegildet.github.io/om-gildet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biornegildet.github.io/styret/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biornegildet.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
