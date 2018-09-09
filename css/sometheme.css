@@ -101,13 +101,12 @@ li        { font-size: 1.0em; color: var(--sometheme-fg-text-color); }
 .caption-slim { height: 45%; }
 .caption-regular { height: 90%; }
 
-.parallax-mirror { opacity: 0.85; }
+.parallax-mirror { opacity: 0.80; }
 
 .caption-container {
     left: 0;
     position: absolute;
     text-align: center;
-    top: 30%;
     width: 100%;
 }
 
