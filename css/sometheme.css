@@ -98,23 +98,12 @@ li        { font-size: 1.0em; color: var(--sometheme-fg-text-color); }
  * caption
  */
 
-.caption-parallax {
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.caption-slim { height: 45%; }
+.caption-regular { height: 90%; }
 
-    width: 100%;
-    opacity: 0.80;
+.parallax-mirror { opacity: 0.85; }
 
-    position: relative;
-
-    background-image: url("../img/title-bg.png");
-}
-.caption-slim { height: 35%; }
-.caption-regular { height: 75%; }
-
-.caption-parallax .caption-container {
+.caption-container {
     left: 0;
     position: absolute;
     text-align: center;
@@ -122,21 +111,24 @@ li        { font-size: 1.0em; color: var(--sometheme-fg-text-color); }
     width: 100%;
 }
 
-.caption-parallax .caption-container .border-box {
+.caption-slim .caption-container { top: 25%; }
+.caption-regular .caption-container { top: 45%; }
+
+.caption-container .border-box {
     background-color: var(--sometheme-caption-bg-color);
     display: block;
     opacity: 0.90;
     padding: 25px 25px;
 }
 
-.caption-parallax .caption-container .title {
+.caption-container .title {
     color: var(--sometheme-caption-fg-color);
     font-size: 2.5rem;
     letter-spacing: 0.20rem;
     margin: 0;
 }
 
-.caption-parallax .caption-container .subtitle {
+.caption-container .subtitle {
     color: var(--sometheme-caption-fg-color);
     font-size: 1.5rem;
     letter-spacing: 0.10rem;
