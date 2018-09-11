@@ -98,6 +98,7 @@ li        { font-size: 1.0em; color: var(--sometheme-fg-text-color); }
  * caption
  */
 
+.caption-common { position: relative; }
 .caption-slim { height: 45%; }
 .caption-regular { height: 90%; }
 
@@ -110,8 +111,8 @@ li        { font-size: 1.0em; color: var(--sometheme-fg-text-color); }
     width: 100%;
 }
 
-.caption-slim .caption-container { top: 25%; }
-.caption-regular .caption-container { top: 45%; }
+.caption-slim .caption-container { top: 30%; }
+.caption-regular .caption-container { top: 35%; }
 
 .caption-container .border-box {
     background-color: var(--sometheme-caption-bg-color);
