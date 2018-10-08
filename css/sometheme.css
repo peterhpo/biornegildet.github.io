@@ -176,26 +176,6 @@ li        { font-size: 1.0em; color: var(--sometheme-fg-text-color); }
     width: 100%;
 }
 
-.feature-image-circle {
-    -webkit-clip-path: circle();
-    clip-path: circle();
-    height: auto;
-    width: 100%;
-}
-
-.feature-image-parallax {
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-    height: 100%;
-    width: 100%;
-    opacity: 1.00;
-
-    position: relative;
-}
-
 .feature-title {
     margin-bottom: 15px;
     padding-top: 20px;
