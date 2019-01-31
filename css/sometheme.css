@@ -161,6 +161,10 @@ li        { font-size: 1.0em; color: var(--sometheme-fg-text-color); }
     .feature-image { }
 }
 
+.feature-title-only-title {
+    text-align: center;
+}
+
 .feature-gradient-ltr {
     background-color: var(--sometheme-light-shades-lightest);
     background-image: linear-gradient(to left, var(--sometheme-bg-feature-light-color), var(--sometheme-bg-feature-dark-color));

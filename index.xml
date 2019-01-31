@@ -11,6 +11,15 @@
     
     
     <item>
+      <title></title>
+      <link>https://biornegildet.no/plan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biornegildet.no/plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Biørnegildets Historie</title>
       <link>https://biornegildet.no/historie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -61,10 +70,10 @@ Festivalen avholdes 4.-9. Februar 2019, hvor mesteparten av de faglige innslagen
     
     <item>
       <title>Ukeplan</title>
-      <link>https://biornegildet.no/plan/</link>
+      <link>https://biornegildet.no/planner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://biornegildet.no/plan/</guid>
+      <guid>https://biornegildet.no/planner/</guid>
       <description></description>
     </item>
     
