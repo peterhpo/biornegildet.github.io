@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://biornegildet.no/plan/</loc>
-  </url>
-  
-  <url>
     <loc>https://biornegildet.no/</loc>
     <priority>0</priority>
   </url>
@@ -22,6 +18,10 @@
   <url>
     <loc>https://biornegildet.no/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biornegildet.no/plan/</loc>
   </url>
   
   <url>
