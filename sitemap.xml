@@ -1,48 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://biornegildet.no/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biornegildet.no/historie/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biornegildet.no/frivilliginfo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biornegildet.no/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biornegildet.no/plan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biornegildet.no/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biornegildet.no/om-gildet/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biornegildet.no/styret/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biornegildet.no/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biornegildet.no/planner/</loc>
   </url>
-  
 </urlset>

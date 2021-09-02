@@ -17,11 +17,18 @@
      * --sometheme-dark-shades-dark:     hsl(211, 53%, 20%);
      * --sometheme-dark-shades-darkest:  hsl(211, 53%, 10%);
      */
-    --sometheme-dark-shades-lightest: hsl(345, 60%, 45%);
-    --sometheme-dark-shades-light:    hsl(345, 60%, 35%);
-    --sometheme-dark-shades-mid:      hsl(345, 60%, 25%);
-    --sometheme-dark-shades-dark:     hsl(345, 60%, 15%);
-    --sometheme-dark-shades-darkest:  hsl(345, 60%, 5%);
+    /* vine-red dark colors
+     * --sometheme-dark-shades-lightest: hsl(345, 60%, 45%);
+     * --sometheme-dark-shades-light:    hsl(345, 60%, 35%);
+     * --sometheme-dark-shades-mid:      hsl(345, 60%, 25%);
+     * --sometheme-dark-shades-dark:     hsl(345, 60%, 15%);
+     * --sometheme-dark-shades-darkest:  hsl(345, 60%, 5%);
+     */
+     --sometheme-dark-shades-lightest: hsl(22, 80%, 45%);
+     --sometheme-dark-shades-light:    hsl(22, 80%, 35%);
+     --sometheme-dark-shades-mid:      hsl(22, 80%, 25%);
+     --sometheme-dark-shades-dark:     hsl(22, 80%, 15%);
+     --sometheme-dark-shades-darkest:  hsl(22, 80%, 5%);
 
     --sometheme-bg-color: var(--sometheme-light-shades-light);
     --sometheme-bg-hf-color: var(--sometheme-light-shades-mid);
