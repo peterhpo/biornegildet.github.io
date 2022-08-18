@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biørnegildet 2019</title>
+    <title>Biørnegildet 2022</title>
     <link>https://biornegildet.no/</link>
-    <description>Recent content on Biørnegildet 2019</description>
+    <description>Recent content on Biørnegildet 2022</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language><atom:link href="https://biornegildet.no/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,23 +17,13 @@ Festivalen avholdes 4.-9. Februar 2019, hvor mesteparten av de faglige innslagen
     </item>
     
     <item>
-      <title>Bli med</title>
+      <title>Bli med!</title>
       <link>https://biornegildet.no/frivilliginfo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://biornegildet.no/frivilliginfo/</guid>
-      <description>Info til frivillige  Påmeldingsskjema
- For tre år siden var over 150 frivillige med på å lage en fantastisk festival, og for å kunne gjenskape magien trenger vi nye frivillighelter til Biørnegildet 2019!
-Som frivillig får du muligheten til å være med og bidra til at Biørnegildet 2019 blir en av de beste festivalene Blindern noen gang har sett. Du kan gjøre nye erfaringer, og bli en del av et godt samhold.</description>
-    </item>
-    
-    <item>
-      <title>Eventbeskrivelser</title>
-      <link>https://biornegildet.no/plan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://biornegildet.no/plan/</guid>
-      <description></description>
+      <description>Info til frivillige Påmeldingsskjema
+Som frivillig får du muligheten til å være med og bidra til at Biørnegildet 2022 blir en av de beste festivalene Blindern noen gang har sett. Du kan gjøre nye erfaringer, og bli en del av et godt samhold. Det er ikke nødvendig med tidligere erfaring fra festival eller lignende og du vil få god opplæring i arbeidet du skal utføre, så her har du muligheten til å prøve noe helt nytt.</description>
     </item>
     
     <item>
@@ -53,24 +43,6 @@ Som frivillig får du muligheten til å være med og bidra til at Biørnegildet 
       <guid>https://biornegildet.no/om-gildet/</guid>
       <description>Kort om Biørnegildet Biørnegildet er en studentfestival arrangert i forbindelse med studentforeningen Realistforeningen ved Universitetet i Oslo. Den er blant de eldste og mest tradisjonsrike av begivenhetene til Realistforeningen, med et formål om å gi studenter er unik erfaring fra våre sosiale og faglige arrangement.
 Festivalen avholdes 14.-19. Februar 2022 og festivaltemaet denne gangen er Vitenskap for samfunnet. Temaet kommer til å reflektere festivalen. Mange av de faglige innslagene er rettet mot studenter ved matematisk-naturvitenskapelig fakultet ved UiO, men absolutt ikke alle.</description>
-    </item>
-    
-    <item>
-      <title>Styret</title>
-      <link>https://biornegildet.no/styret/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://biornegildet.no/styret/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ukeplan</title>
-      <link>https://biornegildet.no/planner/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://biornegildet.no/planner/</guid>
-      <description></description>
     </item>
     
   </channel>
