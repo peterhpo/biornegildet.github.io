@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biørnegildet 2022</title>
+    <title>Biørnegildet 2025</title>
     <link>https://biornegildet.no/</link>
-    <description>Recent content on Biørnegildet 2022</description>
+    <description>Recent content on Biørnegildet 2025</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language><atom:link href="https://biornegildet.no/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,8 +12,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://biornegildet.no/historie/</guid>
-      <description>Biørnegildets historie Biørnegildet er en studentfestival arrangert i forbindelse med studentforeningen Realistforeningen ved Universitetet i Oslo. Den er blant de eldste og mest tradisjonsrike av begivenhetene til Realistforeningen, med et formål om å gi studenter er unik erfaring fra våre sosiale og faglige arrangement.
-I år avholdes festivalen avholdes 12.-17. september, hvor mesteparten av de faglige innslagene er rettet mot studenter ved matematisk-naturvitenskapelig fakultet ved UiO. Det sosiale innholdet tilbyr et godt utvalg av underholdning, her skal alle finne noe etter sin smak.</description>
+      <description>
+        Biørnegildets historie Biørnegildet er en studentfestival arrangert i forbindelse med studentforeningen Realistforeningen ved Universitetet i Oslo. 
+        Den er blant de eldste og mest tradisjonsrike av begivenhetene til Realistforeningen, med et formål om å gi studenter er unik erfaring fra våre sosiale og faglige arrangement.
+        I år avholdes festivalen avholdes 17.-22. februar, hvor mesteparten av de faglige innslagene er rettet mot studenter ved matematisk-naturvitenskapelig fakultet ved UiO. 
+        Det sosiale innholdet tilbyr et godt utvalg av underholdning, her skal alle finne noe etter sin smak.
+      </description>
     </item>
     
     <item>
@@ -22,8 +26,12 @@ I år avholdes festivalen avholdes 12.-17. september, hvor mesteparten av de fag
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://biornegildet.no/frivilliginfo/</guid>
-      <description>Info til frivillige Påmeldingsskjema
-Som frivillig får du muligheten til å være med og bidra til at Biørnegildet 2022 blir en av de beste festivalene Blindern noen gang har sett. Du kan gjøre nye erfaringer, og bli en del av et godt samhold. Det er ikke nødvendig med tidligere erfaring fra festival eller lignende og du vil få god opplæring i arbeidet du skal utføre, så her har du muligheten til å prøve noe helt nytt.</description>
+      <description>
+        Info til frivillige Påmeldingsskjema
+        Som frivillig får du muligheten til å være med og bidra til at Biørnegildet 2025 blir en av de beste festivalene Blindern noen gang har sett. 
+        Du kan gjøre nye erfaringer, og bli en del av et godt samhold. 
+        Det er ikke nødvendig med tidligere erfaring fra festival eller lignende og du vil få god opplæring i arbeidet du skal utføre, så her har du muligheten til å prøve noe helt nytt.
+      </description>
     </item>
     
     <item>
@@ -41,8 +49,12 @@ Som frivillig får du muligheten til å være med og bidra til at Biørnegildet 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://biornegildet.no/om-gildet/</guid>
-      <description>Kort om Biørnegildet Biørnegildet er en studentfestival arrangert i forbindelse med studentforeningen Realistforeningen ved Universitetet i Oslo. Den er blant de eldste og mest tradisjonsrike av begivenhetene til Realistforeningen, med et formål om å gi studenter er unik erfaring fra våre sosiale og faglige arrangement.
-Festivalen avholdes 12.-17. september og festivaltemaet denne gangen er Vitenskap for samfunnet. Temaet kommer til å reflektere festivalen. Mange av de faglige innslagene er rettet mot studenter ved matematisk-naturvitenskapelig fakultet ved UiO, men absolutt ikke alle.</description>
+      <description>
+        Kort om Biørnegildet 
+        Biørnegildet er en studentfestival arrangert i forbindelse med studentforeningen Realistforeningen ved Universitetet i Oslo. 
+        Den er blant de eldste og mest tradisjonsrike av begivenhetene til Realistforeningen, med et formål om å gi studenter er unik erfaring fra våre sosiale og faglige arrangement.
+        Festivalen avholdes 17.-22. februar og festivaltemaet denne gangen er "Mennesket i samfunnet 25 år +/-". 
+        Temaet kommer til å reflektere festivalen. Mange av de faglige innslagene er rettet mot studenter ved matematisk-naturvitenskapelig fakultet ved UiO, men absolutt ikke alle.</description>
     </item>
     
   </channel>
